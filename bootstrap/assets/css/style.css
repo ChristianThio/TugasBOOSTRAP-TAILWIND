@@ -1,0 +1,10 @@
+/* Custom CSS untuk mempercantik */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card img {
+  object-fit: cover;
+  height: 100%;
+  aspect-ratio: 1 / 1; /* semua feed kotak */
+}
